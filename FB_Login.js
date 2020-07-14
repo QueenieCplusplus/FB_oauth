@@ -1,4 +1,4 @@
-// 2020, 7/14, pm 2:00
+// 2020, 7/14, pm 1:00 - 2:00
 // JS
 // FB login
 
@@ -16,7 +16,7 @@
 
 
 // JS to HTML DOM
-//embaded fb sdk
+//embeded fb sdk
   (function(d, s, id){
      var js, fjs = d.getElementsByTagName(s)[0];
      if (d.getElementById(id)) {return;}
